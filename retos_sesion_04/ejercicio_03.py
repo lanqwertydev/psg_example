@@ -1,0 +1,5 @@
+print ("Juego poker")
+print ("REGLAS")
+print ("1. gana la mejor combinacion de cartas")
+print ("2. Pueden ser pares, dos pares trios o mejores")
+print ("3. Construir tu mano con la carta comunitarias o solo las tuyas")
