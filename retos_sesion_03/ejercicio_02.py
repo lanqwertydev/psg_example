@@ -1,0 +1,5 @@
+print (" Hola rogers")
+print ("como va tu dia")
+print ("mal, empezo a llover")
+print ("que mal, bueno adios")
+print ("hasta luego")
