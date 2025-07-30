@@ -1,0 +1,6 @@
+print ("1. tomas una escoba")
+print ("2. la sostienes con ambas manos")
+print ("3. la pones en modo diagonal")
+print ("4. la mueves de izquierda a derecha arrastrando el polvo ")
+print ("5. no pares hasta acabar con toda la suciedad")
+print ("6. guarda la escoba")
