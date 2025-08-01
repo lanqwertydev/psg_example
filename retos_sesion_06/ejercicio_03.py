@@ -10,3 +10,6 @@ a = True
 b = False
 
 print (a and b)
+
+print (" a      b       and")
+print (" True   False   False   ")
