@@ -94,7 +94,7 @@ print (len(diccionario))
 print ("perro" in diccionario)
 print ("perro" not in diccionario)
 
-iterador = iter(diccionario.items())
+iterador = iter(diccionario.items())   #el iterador es una manera de recorrer el codigo
 siguiente = next(iterador)
 print (siguiente)
 siguiente = next(iterador)
